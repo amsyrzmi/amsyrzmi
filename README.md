@@ -71,33 +71,57 @@ I enjoy building **robust backend systems**, exploring **Linux environments**, a
 
 ## 🚀 Featured Projects
 
-### 🔹 Secure REST API (Spring Boot + Spring Security)
+### 🔹 Capstone Project – Peer Assessment System
+- Backend-focused peer evaluation platform for academic use  
+- Secure authentication and role-based access control  
+- RESTful APIs for submissions, reviews, and scoring  
+- Designed for scalability and maintainability  
+
+**Tech Stack:**  
+Java, Spring Boot, Spring Security, REST API, MySQL
+
+---
+
+### 🔹 Secure REST API (Spring Boot)
 - JWT-based authentication & authorization  
 - Role-based access control (RBAC)  
-- RESTful endpoints with validation  
-- MySQL integration  
+- Input validation and secure endpoint design  
+- Database-backed API architecture  
 
-**Tech:** Java, Spring Boot, Spring Security, REST API, MySQL
+**Tech Stack:**  
+Java, Spring Boot, Spring Security, REST API, MySQL
+
+---
+
+### 🔹 Lab Management System
+- System for managing lab equipment, usage, and records  
+- User authentication and role-based access (admin / staff / student)  
+- Clean UI with responsive design  
+
+**Tech Stack:**  
+Laravel, MySQL, Tailwind CSS
 
 ---
 
 ### 🔹 Lost & Found Management System
-- User authentication & item reporting  
-- Image uploads and status tracking  
-- Notification-ready backend design  
+- Users can report lost and found items  
+- Image uploads, item status tracking, and ownership verification  
+- Designed with extensibility for notifications  
 
-**Tech:** Laravel, MySQL, Tailwind CSS
-
----
-
-### 🔹 IoT Occupancy & Flush Detection System
-- ESP8266 & Raspberry Pi integration  
-- Ultrasonic & water flow sensors  
-- Real-time data transmission  
-
-**Tech:** Python, Microcontrollers, Linux
+**Tech Stack:**  
+Laravel, MySQL, Tailwind CSS
 
 ---
+
+### 🔹 Smart Toilet Monitoring System (IoT)
+- Raspberry Pi–based system deployed in a **toilet environment**  
+- Occupancy detection using ultrasonic sensors  
+- Flush detection using water flow sensors  
+- Multi-node ESP8266 communication with centralized data handling  
+
+**Tech Stack:**  
+Raspberry Pi, ESP8266, Python, Linux, IoT Sensors
+
 
 ## 📊 GitHub Statistics
 
