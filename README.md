@@ -43,9 +43,9 @@ I enjoy building **robust backend systems**, exploring **Linux environments**, a
 
 ### 🔐 Security, APIs & DevOps
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring Security" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Security" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/api-colored.svg" width="36" height="36" alt="REST API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="REST API" />
 </p>
 
 ---
