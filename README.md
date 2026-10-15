@@ -127,11 +127,7 @@ Laravel, MySQL, Tailwind CSS
 Raspberry Pi, ESP8266, Python, Linux, IoT Sensors
 
 
-## 📊 GitHub Statistics
 
-<a href="https://github.com/amsyrzmi">
-  <img src="https://github-readme-stats.vercel.app/api?username=amsyrzmi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
 
 ---
 
