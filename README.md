@@ -131,17 +131,14 @@ Raspberry Pi, ESP8266, Python, Linux, IoT Sensors
 
 ## 🏆 GitHub Achievements & Stats
 
-### 🎖️ Trophies
+### 📊 Commit & Language Stats
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amsyrzmi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=amsyrzmi&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=amsyrzmi&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
-### 📊 Commit & Activity Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amsyrzmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=amsyrzmi&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsyrzmi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
