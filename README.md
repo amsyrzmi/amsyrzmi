@@ -71,6 +71,7 @@ I enjoy building **robust backend systems**, exploring **Linux environments**, a
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -126,8 +127,6 @@ Laravel, MySQL, Tailwind CSS
 **Tech Stack:**  
 Raspberry Pi, ESP8266, Python, Linux, IoT Sensors
 
-
----
 ---
 
 ## 🏆 GitHub Achievements & Stats
@@ -146,5 +145,5 @@ Raspberry Pi, ESP8266, Python, Linux, IoT Sensors
 </p>
 
 ---
-⭐ *“Strong fundamentals, secure systems, and continuous learning define my journey as a software engineer.”*
 
+⭐ *“Strong fundamentals, secure systems, and continuous learning define my journey as a software engineer.”*
